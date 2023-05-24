@@ -3,8 +3,6 @@ layout: page
 title: Privacy Policy
 include_in_header: true
 ---
-PRIVACY POLICY
-
 Last updated May 24, 2023
 
 This privacy notice for One plug ('Company', 'we', 'us', or 'our'), describes how and why we might collect, store, use, and/or share ('process') your information when you use our services ('Services'), such as when you:
