@@ -39,23 +39,27 @@ features                                  :
   - title                                 : Global Data
     description                           : Find EV Chargers from all around the world.
     fontawesome_icon_name                 : globe
-    
-  - title                                 : Contribute
-    description                           : Contribute to our community and earn points.
-    fontawesome_icon_name                 : trophy
+
+  - title                                 : Search
+    description                           : Search for any location in the world.
+    fontawesome_icon_name                 : search
 
   - title                                 : Filters
     description                           : Apply filters to show results based on your needs.
     fontawesome_icon_name                 : filter
 
+  - title                                 : Directions
+    description                           : Get directions to any EV Charger.
+    fontawesome_icon_name                 : road
+
   - title                                 : Favourites
     description                           : Add any EV Charger to your favourites list for quick access.
     fontawesome_icon_name                 : star
 
-  - title                                 : Directions
-    description                           : Get directions to any EV Charger.
-    fontawesome_icon_name                 : road
-    
+  - title                                 : Contribute
+    description                           : Contribute to our community and earn points.
+    fontawesome_icon_name                 : trophy
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
