@@ -60,6 +60,14 @@ features                                  :
     description                           : Contribute to our community and earn points.
     fontawesome_icon_name                 : trophy
 
+  - title                                 : Dark Mode
+    description                           : Enjoy our app in dark mode.
+    fontawesome_icon_name                 : moon
+
+  - title                                 : Light Mode
+    description                           : Enjoy our app in light mode.
+    fontawesome_icon_name                 : sun
+
   - title                                 : # New Feature Title
     description                           : # New Feature Description
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
