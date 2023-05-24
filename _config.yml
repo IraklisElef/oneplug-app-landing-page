@@ -56,7 +56,7 @@ features                                  :
     description                           : Add any EV Charger to your favourites list for quick access.
     fontawesome_icon_name                 : star
 
-  - title                                 : Contribute
+  - title                                 : Leaderboard
     description                           : Contribute to our community and earn points.
     fontawesome_icon_name                 : trophy
 
