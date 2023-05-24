@@ -91,22 +91,22 @@ device_color                              : black                               
 
 body_background_color                     : "#000000"
 
-link_color                                : "#1d63ea"
+link_color                                : "#00A0EA"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#ffffff"
-feature_text_color                        : "#00A0EA"
+feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#00A0EA"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#00A0EA"
 social_icons_background_color             : "#e6e6e6"
 
-footer_text_color                         : "#00A0EA"
+footer_text_color                         : "#666666"
 
 
 
