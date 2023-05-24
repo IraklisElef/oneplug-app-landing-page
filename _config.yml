@@ -82,7 +82,7 @@ body_background_color                     : "#000000"
 link_color                                : "#00A0EA"
 
 app_title_color                           : "#ffffff"
-app_price_color                           : "#ffffff"
+app_price_color                           : "#808080"
 app_description_color                     : "#ffffff"
 
 feature_title_color                       : "#ffffff"
