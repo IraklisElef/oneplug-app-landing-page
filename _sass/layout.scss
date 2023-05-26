@@ -226,17 +226,17 @@ nav > ul li a:active {
 	background-color: rgba($header-color, $header-transparency);
 }
 
-.subPageHeaderBackground .logo > p {
+.logo > p {
 	color: #ffffff;
 }
 
-.subPageHeaderBackground nav > ul li a:link,
-.subPageHeaderBackground nav > ul li a:visited {
+nav > ul li a:link,
+nav > ul li a:visited {
 	color: rgba(#ffffff, 0.6);
 }
 
-.subPageHeaderBackground nav > ul li a:hover,
-.subPageHeaderBackground nav > ul li a:active {
+nav > ul li a:hover,
+nav > ul li a:active {
 	color: rgba(#ffffff, 1);
 }
 
