@@ -221,9 +221,11 @@ nav > ul li a:active {
 	color: rgba($header-title-color, 1);
 }
 
-
-
 // Sub Page Header Styling
+.subPageHeaderBackground {
+	background-color: rgba($header-color, $header-transparency);
+}
+
 .subPageHeaderBackground .logo > p {
 	color: #ffffff;
 }
