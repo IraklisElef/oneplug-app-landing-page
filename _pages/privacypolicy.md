@@ -461,3 +461,5 @@ If you have questions or comments about this notice, you may email us at app.one
 ## 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 <br>
 You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, you may email us at app.oneplug@gmail.com.
+<br>
+<br>
