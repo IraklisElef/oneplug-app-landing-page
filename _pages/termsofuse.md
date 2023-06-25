@@ -303,7 +303,7 @@ We cannot guarantee the Services will be available at all times. We may experien
 
 ## 21. GOVERNING LAW
 <br>
-These Legal Terms are governed by and interpreted following the laws of Greece, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. One Plugand yourself both agree to submit to the non-exclusive jurisdiction of the courts of Alexandroupoli, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in Greece, or in the EU country in which you reside.
+These Legal Terms are governed by and interpreted following the laws of Greece, and the use of the United Nations Convention of Contracts for the International Sales of Goods is expressly excluded. If your habitual residence is in the EU, and you are a consumer, you additionally possess the protection provided to you by obligatory provisions of the law in your country to residence. One Plug and yourself both agree to submit to the non-exclusive jurisdiction of the courts of Alexandroupoli, which means that you may make a claim to defend your consumer protection rights in regards to these Legal Terms in Greece, or in the EU country in which you reside.
 
 ## 22. DISPUTE RESOLUTION
 <br>
