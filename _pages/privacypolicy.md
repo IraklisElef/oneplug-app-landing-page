@@ -11,7 +11,7 @@ This privacy notice for One plug ('Company', 'we', 'us', or 'our'), describes ho
 - Download and use our mobile application (One Plug), or any other application of ours that links to this privacy notice
 
 - Engage with us in other related ways, including any sales, marketing, or events
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at app.oneplug@gmail.com.
+Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at info@oneplug.org.
 
 # SUMMARY OF KEY POINTS
 <br>
@@ -261,7 +261,7 @@ If you would at any time like to review or change the information in your accoun
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
 
-If you have questions or comments about your privacy rights, you may email us at app.oneplug@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at info@oneplug.org.
 
 ## 11. CONTROLS FOR DO-NOT-TRACK FEATURES
 <br>
@@ -316,7 +316,7 @@ How do we use and share your personal information?
 
 More information about our data collection and sharing practices can be found in this privacy notice.
 
-You may contact us by email at app.oneplug@gmail.com, or by referring to the contact details at the bottom of this document.
+You may contact us by email at info@oneplug.org, or by referring to the contact details at the bottom of this document.
 
 If you are using an authorised agent to exercise your right to opt out we may deny a request if the authorised agent does not submit proof that they have been validly authorised to act on your behalf.
 
@@ -388,7 +388,7 @@ Other privacy rights
 
 - You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by email at app.oneplug@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by email at info@oneplug.org, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 
 ## 13. DO VIRGINIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 <br>
@@ -434,7 +434,7 @@ Exercise your rights provided under the Virginia CDPA
 
 More information about our data collection and sharing practices can be found in this privacy notice.
 
-You may contact us by email at app.oneplug@gmail.com.
+You may contact us by email at info@oneplug.org.
 
 If you are using an authorised agent to exercise your rights, we may deny a request if the authorised agent does not submit proof that they have been validly authorised to act on your behalf.
 
@@ -446,7 +446,7 @@ Upon receiving your request, we will respond without undue delay, but in all cas
 
 Right to appeal
 
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at app.oneplug@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to submit a complaint.
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at info@oneplug.org. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to submit a complaint.
 
 ## 14. DO WE MAKE UPDATES TO THIS NOTICE?
 <br>
@@ -456,10 +456,10 @@ We may update this privacy notice from time to time. The updated version will be
 
 ## 15. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 <br>
-If you have questions or comments about this notice, you may email us at app.oneplug@gmail.com.
+If you have questions or comments about this notice, you may email us at info@oneplug.org.
 
 ## 16. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 <br>
-You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, you may email us at app.oneplug@gmail.com.
+You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, you may email us at info@oneplug.org.
 <br>
 <br>
