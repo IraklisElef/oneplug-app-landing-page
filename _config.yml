@@ -139,3 +139,7 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+<Files ".well-known/apple-app-site-association">
+ForceType 'application/json'
+</Files>
