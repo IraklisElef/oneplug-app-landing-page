@@ -6,7 +6,7 @@ include_in_header: true
 **Last updated** 
 May 24, 2023
 
-This privacy notice for One plug ('Company', 'we', 'us', or 'our'), describes how and why we might collect, store, use, and/or share ('process') your information when you use our services ('Services'), such as when you:
+This privacy notice for One plug ('Company', 'we', 'us', 'our', or 'ΕΛΕΥΘΕΡΙΑΔΗΣ ΗΡΑΚΛΗΣ'), describes how and why we might collect, store, use, and/or share ('process') your information when you use our services ('Services'), such as when you:
 
 - Download and use our mobile application (One Plug), or any other application of ours that links to this privacy notice
 

@@ -8,7 +8,7 @@ May 24, 2023
 
 # AGREEMENT TO OUR LEGAL TERMS
 <br>
-We are One Plug ('Company', 'we', 'us', or 'our'), a company registered in Greece. Our VAT number is EL168204784.
+We are One Plug ('Company', 'we', 'us', 'our', or 'ΕΛΕΥΘΕΡΙΑΔΗΣ ΗΡΑΚΛΗΣ'), a company registered in Greece. Our VAT number is EL168204784.
 
 We operate the mobile application One Plug (the 'App'), as well as any other related products and services that refer or link to these legal terms (the 'Legal Terms') (collectively, the 'Services').
 
