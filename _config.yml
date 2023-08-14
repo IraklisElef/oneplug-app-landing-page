@@ -40,6 +40,10 @@ features                                  :
   - title                                 : Global Data
     description                           : Find EV Chargers from all around the world.
     fontawesome_icon_name                 : globe
+    
+  - title                                 : Add Locations
+    description                           : Add any EV Charging station on the map.
+    fontawesome_icon_name                 : plus
 
   - title                                 : Search
     description                           : Search for any location in the world.
