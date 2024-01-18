@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.iraklis.Chargit",
+      "sha256_cert_fingerprints":
+        ["48:3E:D0:FC:80:42:80:17:DB:69:5E:C5:C3:A8:2D:05:62:7A:91:AF:CE:49:30:2D:DF:BC:A0:97:4C:ED:8C:26"]
+    }
+  }
+]
