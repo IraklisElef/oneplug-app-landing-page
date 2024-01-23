@@ -14,7 +14,7 @@ We operate the mobile application One Plug (the 'App'), as well as any other rel
 
 Find EV Chargers effortlessly with One Plug. Simplify your charging experience using our sleek and user-friendly app.
 
-You can contact us by phone at +30 6971926556, email at info@oneplug.org, or by mail to __________, Alexandroupoli, Greece.
+You can contact us by phone at +30 6971926556, email at info@oneplug.org.
 
 These Legal Terms constitute a legally binding agreement made between you, whether personally or on behalf of an entity ('you'), and Iraklis Eleftheriadis (One Plug), concerning your access to and use of the Services. You agree that by accessing the Services, you have read, understood, and agreed to be bound by all of these Legal Terms. IF YOU DO NOT AGREE WITH ALL OF THESE LEGAL TERMS, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SERVICES AND YOU MUST DISCONTINUE USE IMMEDIATELY.
 

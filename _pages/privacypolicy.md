@@ -194,22 +194,31 @@ Vendors, Consultants, and Other Third-Party Service Providers. We may share your
 
 - Advertising, Direct Marketing, and Lead Generation
 Google AdSense and Facebook Audience Network
+
 - Allow Users to Connect to Their Third-Party Accounts
 Facebook account, Google account and Apple account
+
 - Cloud Computing Services
 Google Cloud Platform and Firebase
+
 - Functionality and Infrastructure Optimisation
 Cloud Storage for Firebase, Firebase Realtime Database , Cloud Functions for Firebase , Firebase Hosting , Cloud Firestore, Firebase Legacy and Google Cloud Storage 
+
 - Invoice and Billing
 RevenueCat, Android Pay and Apple Pay
+
 - Retargeting Platforms
 Google Ads Remarketing 
+
 - User Account Registration and Authentication
 Facebook Login, Firebase Authentication, Google Sign-In, Google OAuth 2.0 and Apple Login
+
 - Web and Mobile Analytics
 Google Analytics, Google Ads and Google Analytics for Firebase
+
 - Website Hosting
 Github Pages
+
 - Website Performance Monitoring
 Crashlytics, Firebase Crash Reporting and Firebase Performance Monitoring
 
@@ -315,7 +324,10 @@ What categories of personal information do we collect?
 
 We have collected the following categories of personal information in the past twelve (12) months:
 
-Category    Examples    Collected
+Category    
+Examples    
+Collected
+
 A. Identifiers    
 Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name    
 YES
@@ -360,9 +372,9 @@ K. Inferences drawn from collected personal information
 Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics    
 NO
 
-L. Sensitive personal Information        
+L. Sensitive personal 
+Information        
 NO
-
 
 We will use and retain the collected personal information as needed to provide the Services or for:
 - Category A - As long as the user has an account with us
