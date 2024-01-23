@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: true
 ---
 **Last updated** 
-January 07, 2024
+January 23, 2024
 
 This privacy notice for Iraklis Eleftheriadis (One Plug) ('we', 'us', or 'our'), describes how and why we might collect, store, use, and/or share ('process') your information when you use our services ('Services'), such as when you:
 

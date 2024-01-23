@@ -4,7 +4,7 @@ title: Terms of Use
 include_in_header: true
 ---
 **Last updated**
-January 07, 2024
+January 23, 2024
 
 # AGREEMENT TO OUR LEGAL TERMS
 <br>
